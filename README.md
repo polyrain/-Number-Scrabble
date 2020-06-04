@@ -1,5 +1,5 @@
 # 🎲 Number-Scrabble
-Haskell implementation for a game of Number Scrabble between two players.
+🎲 Haskell implementation for a game of Number Scrabble between two players.
 
 This is a Haskell implementation for the game "Number Scrabble". Players take turns picking a number from a pool of
 15. 
