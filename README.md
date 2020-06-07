@@ -16,4 +16,4 @@ Enters numbers from your keyboard to choose a number;
 gameplay will progress automatically.
 
 
-![Example game](https://i.imgur.com/PQrGGEu.png)
+![Example game](https://i.imgur.com/6NnQyHu.png)
